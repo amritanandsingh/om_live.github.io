@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-image: url(contact.jpg);
+    
+}
+
+.title{ 
+     width: 100%;
+    height: 100px;
+    background-color: rgba(0,0,9,0.3);
+}
+.title a{
+         
+       text-decoration: none;
+        font-family: Verdana;
+        padding-left: 70px;
+        padding-top: 50px;
+        font-weight: bold;
+        color: #FFD662FF;
+        font-size: 32px;
+    }
+    .contact{
+        color: #00203FFF;
+        font-size: 30px;
+        margin-left:20%;
+        margin-bottom:70%;
+       padding-top:4%;
+       font-family: fantasy;
+       word-spacing: 3px;
+    }
+.title a h1 {
+
+    font-size: 32px;
+    margin-top: 1px;
+    margin-left: 16px;
+}
+.text{ color:rgb(18, 19, 3) ; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 60px;
+}

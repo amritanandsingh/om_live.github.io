@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("about.jpg");
+}
+.title a h1{padding-top:2%;
+     padding-left: 5%; 
+    color:white;
+    font-family: 'Lato', sans-serif;
+}
+.title{
+    width: 100%;
+  height: 14vh;
+  background-color: rgba(0, 0,0,0.5);
+}
+.text p{ letter-spacing: 2px;
+    line-height: 40px;
+    word-spacing: 3px;
+}
+.text h1{font-family: 'Squada One', cursive;
+     font-size: 60px;
+    size: 90px;
+    color:#8BC34A;
+}
+.text h2{ font-size: 40px;
+    color: #7B1FA2;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.text p{ text-transform: capitalize;
+    color: #CCFF90;
+    font-family: 'Oxygen', sans-serif;
+}

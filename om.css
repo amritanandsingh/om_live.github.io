@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+   padding: 0px;
+}
+
+.bgimage{
+    background-image: url('om.jpg');
+    
+    background-size : 100% 100%;
+    width: 100% ;
+    height: 120vh ;
+}
+.menu{ 
+    width: 100%;
+    height: 100px;
+    background-color: rgba(9.9,0,0,0.5);
+}
+.leftmenu{
+  width: 25%;
+  line-height: 80px;
+  float:left;  
+}
+.leftmenu h4{
+    padding-top: 7%;
+    font-family: Verdana;
+    padding-left: 70px;
+    font-weight: bold;
+    color: #FFD662FF;
+    font-size: 32px;
+}
+.rightmenu{
+    
+     font-family: Courier;
+     font-size:60px;
+    width: 75%;
+    height: 100px;
+    float: right;
+}
+.rightmenu ul{
+    margin-left: 250px;
+}
+.rightmenu ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+      text-transform: uppercase;
+}
+
+.rightmenu ul li:hover{
+    color:orange;
+    cursor: pointer;
+    font-size:20px;
+    transition-duration:0.2s; 
+}
+.text{ 
+    width:100%;
+    margin-top: 185px;
+    text-transform: uppercase;
+    text-align: center;
+    color:black;
+         }
+.text h4{
+    font-size:27px;
+   font-family: Bookman;
+}
+.text h1{
+    font-size: 50px;
+     font-weight: 100px;
+      margin: 40px 0px;
+   font-family: Comic Sans MS;
+    }
+.text h3 { font-family: Bookman;
+    font-size: 15px;
+    font-size:27px;
+} 
+#buttonone{
+  background:skyblue;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 40px;
+ width: 150px;
+ margin-top:25px;
+ border: 3px solid white;
+}     
+#buttontwo{
+    background:skyblue;
+   
+    border:none;
+    text-transform: uppercase;
+    font-weight:bold;
+    line-height: 40px;
+    border:3px solid
+}
+
